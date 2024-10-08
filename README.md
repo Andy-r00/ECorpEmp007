@@ -1,8 +1,8 @@
-## <u>Summary</u>
+## Summary
 
 Welcome to my README called Five-Nine (referencing the "5/9" zero-day in Mr Robot). This repository is specifically for Windows based systems.
 
-### <u>Windows Based Scripts</u>
+### Windows Based Scripts
 
 #### Compare-File-Script.ps1
 
